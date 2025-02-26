@@ -93,7 +93,7 @@
 							</li>
 							<li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
 							<li class="nav-item dropdown fadeup">
-								<a class="nav-link" href="#">Pages <i class="ti-angle-down"></i></a>
+								<a class="nav-link" href="#">Services And Products <i class="ti-angle-down"></i></a>
 								<ul class="navbar-nav">
 									<li class="nav-item"><a class="nav-link" href="service.php">Services</a></li>
 									<li class="nav-item"><a class="nav-link" href="products.php">Products</a></li>
