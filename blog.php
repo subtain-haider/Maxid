@@ -292,7 +292,7 @@
 							</div>
 						</div>
 						<!-- Recent Subscribe -->
-						<div class="widget subs bg-overlay hero-bg"
+						<!-- <div class="widget subs bg-overlay hero-bg"
 							style="background-image: url(assets/img/pictures/w-5.jpg)">
 							<h5 class="work-title">Newsletter</h5>
 							<p class="subs-title">
@@ -304,7 +304,7 @@
 								</div>
 								<button type="submit">Subscribe</button>
 							</div>
-						</div>
+						</div> -->
 					</aside>
 				</div>
 			</div>

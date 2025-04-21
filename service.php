@@ -87,7 +87,7 @@
 		<div class="container">
 			<div class="counter-wpr">
 				<div class="row">
-					<div class="col-xl-6">
+					<!-- <div class="col-xl-6">
 						<div class="counter-counter element-center">
 							<div class="counter-1 grid-2">
 								<div class="counter-left element-center">
@@ -117,7 +117,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-xl-6">
 						<div class="counter-title">
 							<span class="hero-sub-title mb-20">
@@ -215,7 +215,7 @@
 
 	<!-- Start Price
 		============================================= -->
-	<div class="price-area de-padding">
+	<!-- <div class="price-area de-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
@@ -307,7 +307,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- End Price -->
 
 </main>

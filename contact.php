@@ -42,7 +42,7 @@
 										<div class="addr-desc">
 											<h5>Office</h5>
 											<p class="mb-0">
-												22 Baker Street, London, United <br> Kingdom, W1U 3BW
+												Abu Dhabi, United Arab Emirates
 											</p>
 										</div>
 									</div>
@@ -50,13 +50,13 @@
 										<div class="addr-icon">
 											<i class="icofont-phone"></i>
 										</div>
-										<div class="addr-desc">
+										<!-- <div class="addr-desc">
 											<h5>Phone</h5>
 											<p class="mb-0">
 												+1-940-394-2948<br>
 												+1-389-385-3807
 											</p>
-										</div>
+										</div> -->
 									</div>
 									<div class="addr-box-single">
 										<div class="addr-icon">
@@ -65,8 +65,7 @@
 										<div class="addr-desc">
 											<h5> Email</h5>
 											<p class="mb-0">
-												info@mdjonymia649.com<br>
-												support@logtra.com
+												thegreentree-its.com
 											</p>
 										</div>
 									</div>
@@ -151,12 +150,12 @@
 
 	<!-- Start Google Map
 		============================================= -->
-	<div class="g-map-area">
+	<!-- <div class="g-map-area">
 		<div class="g-map--wrapper text-center">
 			<iframe
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3645.133068555471!2d91.08454181482016!3d23.99107768447128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3754051b50ebac3f%3A0x735c1cc426d8ebb!2sNatai%20Bodtoli%20Bazar%2C%20Natai%2C%2C%20Brahmanbaria!5e0!3m2!1sen!2sbd!4v1594548160557!5m2!1sen!2sbd"></iframe>
 		</div>
-	</div>
+	</div> -->
 	<!-- End Google Map -->
 
 </main>

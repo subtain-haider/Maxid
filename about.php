@@ -61,7 +61,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="about-btn-content">
+						<!-- <div class="about-btn-content">
 							<a href="about.php" class="btn-1">Learn More</a>
 							<div class="about-call">
 								<div class="about-call-icon">
@@ -74,7 +74,7 @@
 									<h5 class="mb-0">+123-4567-8900</h5>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="about-right">
@@ -87,7 +87,7 @@
 
 	<!-- Start Counter
 		============================================= -->
-	<div class="counter-area cnt-2 de-padding pos-rel hero-bg"
+	<!-- <div class="counter-area cnt-2 de-padding pos-rel hero-bg"
 		style="background-image: url(assets/img/bg/counter-bg.png)">
 		<div class="container">
 			<div class="counter-wpr">
@@ -141,12 +141,12 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- End Counter -->
 
 	<!-- Start Review
 		============================================= -->
-	<div class="review-area bg de-padding hero-bg" style="background-image: url(assets/img/shape/review-map.png)">
+	<!-- <div class="review-area bg de-padding hero-bg" style="background-image: url(assets/img/shape/review-map.png)">
 		<div class="container">
 			<div class="review-wpr">
 				<div class="row g-5">
@@ -245,12 +245,12 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- End Review -->
 
 	<!-- Start Promo
 		============================================= -->
-	<div class="promo-area bg-overlay video-bg-live de-pt">
+	<!-- <div class="promo-area bg-overlay video-bg-live de-pt">
 		<div class="player"
 			data-property="{videoURL:'https://youtu.be/cQx8ZYK64dM',containment:'.video-bg-live', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:1, opacity:1, quality:'default'}">
 		</div>
@@ -273,7 +273,7 @@
 								<br/>Seamless Integration: <br /> APIs and SDKs for effortless integration into existing systems.
 								<br/>Use Cases: <br /> Banking, fintech, government services, telecom, and e-commerce.
 							</p>
-							<div class="about-btn-content">
+							<!-- <div class="about-btn-content">
 								<a href="about.php" class="btn-1">Contact Us</a>
 								<div class="about-call">
 									<div class="about-call-icon">
@@ -286,7 +286,7 @@
 										<h5 class="mb-0 text-white">+123-4567-8900</h5>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-4">
@@ -325,7 +325,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- End Promo -->
 
 	<!-- Start Service

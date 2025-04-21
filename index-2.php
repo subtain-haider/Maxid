@@ -110,7 +110,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="about-btn-content">
+						<!-- <div class="about-btn-content">
 							<a href="about.php" class="btn-1 btn-second btn-md">Know More</a>
 							<div class="about-call">
 								<div class="about-call-icon">
@@ -123,7 +123,7 @@
 									<h5 class="mb-0">+123-4567-8900</h5>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="about-right-2 element-center">

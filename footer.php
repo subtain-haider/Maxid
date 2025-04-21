@@ -10,9 +10,7 @@
 	                            <img src="assets/img/logo/logo-white.png" alt="no image">
 	                        </div>
 	                        <p>
-	                            Lorem ipsum dolor sit consectetur
-	                            adipiscing elit, sed do eiusmod incididunt
-	                            ut labore et dolore
+								We provide cutting-edge digital identity verification, AI-driven fraud detection, and compliance automation solutions for governments, banks, and enterprises. Transform your digital operations with secure, seamless, and scalable technology
 	                        </p>
 	                        <ul class="footer-social">
 	                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -124,7 +122,7 @@
 	                            <p class="mb-20">
 	                                Lorem ipsum dolor sit amet, consectetur adipisicing elit
 	                            </p>
-	                            <div class="about-btn-content">
+	                            <!-- <div class="about-btn-content">
 	                                <div class="about-call">
 	                                    <div class="about-call-icon">
 	                                        <i>
@@ -136,14 +134,14 @@
 	                                        <h5 class="mb-0">+123-4567-8900</h5>
 	                                    </div>
 	                                </div>
-	                            </div>
-	                            <form>
+	                            </div> -->
+	                            <!-- <form>
 	                                <span class="btn-shape"></span>
 	                                <input type="text" class="input-style-4" placeholder="Enter Email...">
 	                                <button type="submit" class="btn-subs">
 	                                    <i class="ti-angle-right"></i>
 	                                </button>
-	                            </form>
+	                            </form> -->
 	                        </div>
 	                    </div>
 	                </div>
