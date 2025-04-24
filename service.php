@@ -146,7 +146,7 @@
 								passports, national IDs, and visas, comparing them against the individual's biometric data
 								(e.g., facial features) in real time.
 							</p>
-							<a href="contact.html" class="btn-1 btn-circle btn-md btn-black">Read More</a>
+							<a href="contact.php" class="btn-1 btn-circle btn-md btn-black">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -251,7 +251,7 @@
 							<li><i class="icofont-check-alt"></i>Shareable Team Libraries</li>
 						</ul>
 						<div class="price-bottom">
-							<a href="contact.html" class="price-btn">
+							<a href="contact.php" class="price-btn">
 								Get Started <i class="icofont-rounded-double-right"></i>
 							</a>
 						</div>
@@ -275,7 +275,7 @@
 							<li><i class="icofont-check-alt"></i>Shareable Team Libraries</li>
 						</ul>
 						<div class="price-bottom">
-							<a href="contact.html" class="price-btn">
+							<a href="contact.php" class="price-btn">
 								Get Started <i class="icofont-rounded-double-right"></i>
 							</a>
 						</div>
@@ -299,7 +299,7 @@
 							<li><i class="icofont-check-alt"></i>Shareable Team Libraries</li>
 						</ul>
 						<div class="price-bottom">
-							<a href="contact.html" class="price-btn">
+							<a href="contact.php" class="price-btn">
 								Get Started <i class="icofont-rounded-double-right"></i>
 							</a>
 						</div>

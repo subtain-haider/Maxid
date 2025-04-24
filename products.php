@@ -192,7 +192,7 @@
 								I love apple pie brownie icing. Cake candy I love dessert I love jelly gummi bears.
 								Macaroon jelly chocolate I love lollipop chocolate.
 							</p>
-							<a href="contact.html" class="btn-1 btn-circle btn-md btn-black">Read More</a>
+							<a href="contact.php" class="btn-1 btn-circle btn-md btn-black">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -293,7 +293,7 @@
 							<li><i class="icofont-check-alt"></i>Shareable Team Libraries</li>
 						</ul>
 						<div class="price-bottom">
-							<a href="contact.html" class="price-btn">
+							<a href="contact.php" class="price-btn">
 								Get Started <i class="icofont-rounded-double-right"></i>
 							</a>
 						</div>
@@ -317,7 +317,7 @@
 							<li><i class="icofont-check-alt"></i>Shareable Team Libraries</li>
 						</ul>
 						<div class="price-bottom">
-							<a href="contact.html" class="price-btn">
+							<a href="contact.php" class="price-btn">
 								Get Started <i class="icofont-rounded-double-right"></i>
 							</a>
 						</div>
@@ -341,7 +341,7 @@
 							<li><i class="icofont-check-alt"></i>Shareable Team Libraries</li>
 						</ul>
 						<div class="price-bottom">
-							<a href="contact.html" class="price-btn">
+							<a href="contact.php" class="price-btn">
 								Get Started <i class="icofont-rounded-double-right"></i>
 							</a>
 						</div>
