@@ -12,12 +12,12 @@
 	                        <p>
 								We provide cutting-edge digital identity verification, AI-driven fraud detection, and compliance automation solutions for governments, banks, and enterprises. Transform your digital operations with secure, seamless, and scalable technology
 	                        </p>
-	                        <ul class="footer-social">
+	                        <!-- <ul class="footer-social">
 	                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 	                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
 	                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
 	                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-	                        </ul>
+	                        </ul> -->
 	                    </div>
 	                </div>
 	                <div class="col-xl-4 col-lg-6 col-md-6">
