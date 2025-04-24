@@ -236,52 +236,38 @@
 						<!-- Recent Post -->
 						<div class="widget recent-post">
 							<h5 class="work-title">Recent Post</h5>
-							<div class="recent-post-single">
+							<div class="footer-recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/post-1.png" alt="thumb">
+									<img src="assets/img/pictures/img-2.jpg" alt="no image">
 								</div>
-								<div class="recent-post-bio">
-									<span>
-										<i class="icofont-ui-user"></i>
-										12 Feb, 2023
-									</span>
-									<a href="single.php">
-										<h6>
-											Learning transport is not difficult variety
-										</h6>
-									</a>
+								<div class="recent-post-desc">
+									<span class="recent-post-date">21 March, 2023</span>
+									<h5 class="heading-5">
+										The Future of Digital Identity Verification
+									</h5>
 								</div>
 							</div>
-							<div class="recent-post-single">
+							<div class="footer-recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/post-2.png" alt="thumb">
+									<img src="assets/img/pictures/img-3.jpg" alt="no image">
 								</div>
-								<div class="recent-post-bio">
-									<span>
-										<i class="icofont-ui-user"></i>
-										05 Jul, 2023
-									</span>
-									<a href="single.php">
-										<h6>
-											Plane transport to the variety countries transport
-										</h6>
-									</a>
+								<div class="recent-post-desc">
+									<span class="recent-post-date">20 March, 2023</span>
+									<h5 class="heading-5">
+									Regulatory Compliance in 2025
+									</h5>
 								</div>
 							</div>
-							<div class="recent-post-single">
+							<div class="footer-recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/post-3.png" alt="thumb">
+									<img src="assets/img/pictures/img-3.jpg" alt="no image">
 								</div>
-								<div class="recent-post-bio">
-									<span>
-										<i class="icofont-ui-user"></i>
-										29 Aug, 2023
-									</span>
-									<a href="single.php">
-										<h6>
-											Logistics planning from good to great variety
-										</h6>
-									</a>
+								<div class="recent-post-desc">
+									<span class="recent-post-date">20 March, 2023</span>
+									<h5 class="heading-5">
+									How Machine Learning Enhances Real-Time Risk Assessment
+									</h5>
+
 								</div>
 							</div>
 						</div>
