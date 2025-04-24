@@ -29,7 +29,7 @@
 	                        <div class="recent-post-wrp">
 	                            <div class="footer-recent-post-single">
 	                                <div class="recent-post-pic">
-	                                    <img src="assets/img/pictures/img-2.jpg" alt="no image">
+	                                    <img src="assets/img/pictures/img-1.jpg" alt="no image">
 	                                </div>
 	                                <div class="recent-post-desc">
 	                                    <span class="recent-post-date">21 March, 2023</span>
@@ -51,7 +51,7 @@
 	                            </div>
 	                            <div class="footer-recent-post-single">
 	                                <div class="recent-post-pic">
-	                                    <img src="assets/img/pictures/img-3.jpg" alt="no image">
+	                                    <img src="assets/img/pictures/img-2.jpg" alt="no image">
 	                                </div>
 	                                <div class="recent-post-desc">
 	                                    <span class="recent-post-date">20 March, 2023</span>

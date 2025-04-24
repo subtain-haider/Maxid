@@ -238,7 +238,7 @@
 							<h5 class="work-title">Recent Post</h5>
 							<div class="recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/img-2.jpg" alt="thumb">
+									<img src="assets/img/pictures/img-1.jpg" alt="thumb">
 								</div>
 								<div class="recent-post-bio">
 									<span>
@@ -270,7 +270,7 @@
 							</div>
 							<div class="recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/img-3.jpg" alt="thumb">
+									<img src="assets/img/pictures/img-2.jpg" alt="thumb">
 								</div>
 								<div class="recent-post-bio">
 									<span>
