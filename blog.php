@@ -196,31 +196,37 @@
 								<ul>
 									<li>
 										<a href="#">
-											<span>Air Transportation </span>
+											<span>Digital Identity</span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Sea Transportation </span>
+											<span>Fraud Detection</span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Warehouse</span>
+											<span>Artificial Intelligence</span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Road Transportation </span>
+											<span>Regulatory Compliance </span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Train Transportation </span>
+											<span>Biometrics </span>
+											<i class="ti-angle-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#">
+											<span>Financial Services </span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
@@ -283,12 +289,27 @@
 						<div class="widget sidebar-tags">
 							<h5 class="work-title">Tags</h5>
 							<div class="tags">
-								<a href="#" class="tags-link">Web Development</a>
-								<a href="#" class="tags-link">wordpress</a>
-								<a href="#" class="tags-link">Mobile Apps</a>
-								<a href="#" class="tags-link">Admon Pannel</a>
-								<a href="#" class="tags-link">HTML Css</a>
-								<a href="#" class="tags-link">Laravels</a>
+								<a href="#" class="tags-link">Identity Verification</a>
+								<a href="#" class="tags-link">Digital Transformation</a>
+								<a href="#" class="tags-link">KYC (Know Your Customer)</a>
+								<a href="#" class="tags-link">AML (Anti-Money Laundering)</a>
+								<a href="#" class="tags-link">Biometric Authentication</a>
+								<a href="#" class="tags-link">Facial Recognition</a>
+								<a href="#" class="tags-link">AI in Finance</a>
+								<a href="#" class="tags-link">Fraud Prevention</a>
+								<a href="#" class="tags-link">Compliance Automation</a>
+								<a href="#" class="tags-link">Machine Learning</a>
+								<a href="#" class="tags-link">Data Security</a>
+								<a href="#" class="tags-link">Risk Management</a>
+								<a href="#" class="tags-link">Financial Technology</a>
+								<a href="#" class="tags-link">Privacy & Security</a>
+								<a href="#" class="tags-link">Regulatory Trends</a>
+								<a href="#" class="tags-link">Real-time Verification</a>
+								<a href="#" class="tags-link">Customer Onboarding</a>
+								<a href="#" class="tags-link">Cybersecurity</a>
+								<a href="#" class="tags-link">Fintech Innovation</a>
+								<a href="#" class="tags-link">Government Compliance</a>
+
 							</div>
 						</div>
 						<!-- Recent Subscribe -->

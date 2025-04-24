@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+	<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/logo.png">
 	<!-- Stylesheets -->
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="assets/css/all.min.css" rel="stylesheet" />
@@ -32,7 +32,7 @@
 	<!-- PreLoader -->
 	<div class="preloader">
 		<div class="preloader-container">
-			<span class="preloader-text">Maxid</span>
+			<span class="preloader-text">The Green Tree</span>
 			<div class="preloader-animation"></div>
 		</div>
 	</div>
@@ -76,7 +76,7 @@
 				<div class="container">
 					<a class="navbar-brand" href="index.php">
 						<img src="assets/img/logo/logo-white.png" class="logo-display" alt="thumb">
-						<img src="assets/img/logo/logo.png" class="logo-scrolled" alt="thumb">
+						<img src="assets/img/logo/logo.png" class="logo-scrolled" alt="thumb" style=""height:90px">
 					</a>
 					<button class="navbar-toggler toggler-spring">
 						<span class="navbar-toggler-icon"></span>

@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Kazi Shahiduzzaman
-    Template Name   : Maxid - Business And Agency HTML Template
+    Template Name   : The Green Tree - Business And Agency HTML Template
     Version         : 1.0
     
 * ================================================================= */

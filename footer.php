@@ -7,7 +7,7 @@
 	                <div class="col-xl-3 col-lg-6 col-md-6">
 	                    <div class="footer-widget about-us">
 	                        <div class="footer-logo mb-30">
-	                            <img src="assets/img/logo/logo-white.png" alt="no image">
+	                            <img src="assets/img/logo/logo-white.png" alt="no image" style="height:160px">
 	                        </div>
 	                        <p>
 								We provide cutting-edge digital identity verification, AI-driven fraud detection, and compliance automation solutions for governments, banks, and enterprises. Transform your digital operations with secure, seamless, and scalable technology
@@ -29,34 +29,34 @@
 	                        <div class="recent-post-wrp">
 	                            <div class="footer-recent-post-single">
 	                                <div class="recent-post-pic">
-	                                    <img src="assets/img/pictures/post-1.png" alt="no image">
+	                                    <img src="assets/img/pictures/img-2.jpg" alt="no image">
 	                                </div>
 	                                <div class="recent-post-desc">
-	                                    <span class="recent-post-date">17 April 2023</span>
+	                                    <span class="recent-post-date">21 March, 2023</span>
 	                                    <h5 class="heading-5">
-	                                        Master of backyard <br /> tiling rest
+											The Future of Digital Identity Verification
 	                                    </h5>
 	                                </div>
 	                            </div>
 	                            <div class="footer-recent-post-single">
 	                                <div class="recent-post-pic">
-	                                    <img src="assets/img/pictures/post-2.png" alt="no image">
+	                                    <img src="assets/img/pictures/img-3.jpg" alt="no image">
 	                                </div>
 	                                <div class="recent-post-desc">
-	                                    <span class="recent-post-date">18 April 2023</span>
+	                                    <span class="recent-post-date">20 March, 2023</span>
 	                                    <h5 class="heading-5">
-	                                        The rest of us avoid <br /> common sort
+										Regulatory Compliance in 2025
 	                                    </h5>
 	                                </div>
 	                            </div>
 	                            <div class="footer-recent-post-single">
 	                                <div class="recent-post-pic">
-	                                    <img src="assets/img/pictures/post-3.png" alt="no image">
+	                                    <img src="assets/img/pictures/img-3.jpg" alt="no image">
 	                                </div>
 	                                <div class="recent-post-desc">
-	                                    <span class="recent-post-date">18 April 2023</span>
+	                                    <span class="recent-post-date">20 March, 2023</span>
 	                                    <h5 class="heading-5">
-	                                        Finding hidden gems <br /> of this sort
+										How Machine Learning Enhances Real-Time Risk Assessment
 	                                    </h5>
 
 	                                </div>
@@ -112,7 +112,7 @@
 	                        </ul>
 	                    </div>
 	                </div>
-	                <div class="col-xl-3 col-lg-6 col-md-6">
+	                <!-- <div class="col-xl-3 col-lg-6 col-md-6">
 	                    <div class="footer-widget footer-subs">
 	                        <h4 class="footer-widget-title">
 	                            Subscribe
@@ -122,7 +122,7 @@
 	                            <p class="mb-20">
 	                                Lorem ipsum dolor sit amet, consectetur adipisicing elit
 	                            </p>
-	                            <!-- <div class="about-btn-content">
+	                            <div class="about-btn-content">
 	                                <div class="about-call">
 	                                    <div class="about-call-icon">
 	                                        <i>
@@ -134,24 +134,24 @@
 	                                        <h5 class="mb-0">+123-4567-8900</h5>
 	                                    </div>
 	                                </div>
-	                            </div> -->
-	                            <!-- <form>
+	                            </div>
+	                            <form>
 	                                <span class="btn-shape"></span>
 	                                <input type="text" class="input-style-4" placeholder="Enter Email...">
 	                                <button type="submit" class="btn-subs">
 	                                    <i class="ti-angle-right"></i>
 	                                </button>
-	                            </form> -->
+	                            </form>
 	                        </div>
 	                    </div>
-	                </div>
+	                </div> -->
 	            </div>
 	        </div>
 	    </div>
 	    <div class="copyright">
 	        <div class="container">
 	            <div class="copyright-element text-center">
-	                <p class="mb-0">Copyright 2023 Maxid . All Rights Reserved By Templatebucket</p>
+	                <p class="mb-0">Copyright 2025 The Green Tree . All Rights Reserved By The Green Tree</p>
 	            </div>
 	        </div>
 	    </div>

@@ -98,31 +98,37 @@
 								<ul>
 									<li>
 										<a href="#">
-											<span>Air Transportation </span>
+											<span>Digital Identity</span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Sea Transportation </span>
+											<span>Fraud Detection</span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Warehouse</span>
+											<span>Artificial Intelligence</span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Road Transportation </span>
+											<span>Regulatory Compliance </span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<span>Train Transportation </span>
+											<span>Biometrics </span>
+											<i class="ti-angle-right"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#">
+											<span>Financial Services </span>
 											<i class="ti-angle-right"></i>
 										</a>
 									</li>
