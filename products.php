@@ -156,7 +156,7 @@
 								<div class="counter-right">
 									<div class="fun-fact fun-fact-clr-2 mb-30">
 										<div class="counter">
-											<div class="timer" data-to="99.9" data-speed="2000"></div>
+											<div class="timer" data-to="99" data-speed="2000"></div>
 											<div class="operator">%</div>
 										</div>
 										<span class="medium">Service Uptime</span>
