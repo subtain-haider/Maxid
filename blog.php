@@ -236,38 +236,52 @@
 						<!-- Recent Post -->
 						<div class="widget recent-post">
 							<h5 class="work-title">Recent Post</h5>
-							<div class="footer-recent-post-single">
+							<div class="recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/img-2.jpg" alt="no image">
+									<img src="assets/img/pictures/img-2.jpg" alt="thumb">
 								</div>
-								<div class="recent-post-desc">
-									<span class="recent-post-date">21 March, 2023</span>
-									<h5 class="heading-5">
+								<div class="recent-post-bio">
+									<span>
+										<i class="icofont-ui-user"></i>
+										21 March, 2023
+									</span>
+									<a href="single.php">
+										<h6>
 										The Future of Digital Identity Verification
-									</h5>
+										</h6>
+									</a>
 								</div>
 							</div>
-							<div class="footer-recent-post-single">
+							<div class="recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/img-3.jpg" alt="no image">
+									<img src="assets/img/pictures/img-3.jpg" alt="thumb">
 								</div>
-								<div class="recent-post-desc">
-									<span class="recent-post-date">20 March, 2023</span>
-									<h5 class="heading-5">
-									Regulatory Compliance in 2025
-									</h5>
+								<div class="recent-post-bio">
+									<span>
+										<i class="icofont-ui-user"></i>
+										20 March, 2025
+									</span>
+									<a href="single.php">
+										<h6>
+										Regulatory Compliance in 2025
+										</h6>
+									</a>
 								</div>
 							</div>
-							<div class="footer-recent-post-single">
+							<div class="recent-post-single">
 								<div class="recent-post-pic">
-									<img src="assets/img/pictures/img-3.jpg" alt="no image">
+									<img src="assets/img/pictures/img-3.jpg" alt="thumb">
 								</div>
-								<div class="recent-post-desc">
-									<span class="recent-post-date">20 March, 2023</span>
-									<h5 class="heading-5">
-									How Machine Learning Enhances Real-Time Risk Assessment
-									</h5>
-
+								<div class="recent-post-bio">
+									<span>
+										<i class="icofont-ui-user"></i>
+										20 March, 2023
+									</span>
+									<a href="single.php">
+										<h6>
+										How Machine Learning Enhances Real-Time Risk Assessment
+										</h6>
+									</a>
 								</div>
 							</div>
 						</div>

@@ -43,7 +43,7 @@
 	                                    <img src="assets/img/pictures/img-3.jpg" alt="no image">
 	                                </div>
 	                                <div class="recent-post-desc">
-	                                    <span class="recent-post-date">20 March, 2023</span>
+	                                    <span class="recent-post-date">20 March, 2025</span>
 	                                    <h5 class="heading-5">
 										Regulatory Compliance in 2025
 	                                    </h5>
