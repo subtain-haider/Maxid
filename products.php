@@ -156,17 +156,17 @@
 								<div class="counter-right">
 									<div class="fun-fact fun-fact-clr-2 mb-30">
 										<div class="counter">
-											<div class="timer" data-to="788" data-speed="2000"></div>
-											<div class="operator">K</div>
+											<div class="timer" data-to="99.9" data-speed="2000"></div>
+											<div class="operator">%</div>
 										</div>
-										<span class="medium">Sales of our Products</span>
+										<span class="medium">Service Uptime</span>
 									</div>
 									<div class="fun-fact fun-fact-clr-3">
 										<div class="counter">
-											<div class="timer" data-to="150" data-speed="2000"></div>
-											<div class="operator">M</div>
+											<div class="timer" data-to="92" data-speed="2000"></div>
+											<div class="operator">%</div>
 										</div>
-										<span class="medium">Happy clients</span>
+										<span class="medium">Average Client Retention Rates</span>
 									</div>
 								</div>
 							</div>
